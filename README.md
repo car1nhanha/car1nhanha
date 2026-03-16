@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Carinhanha  
 
-🎯 **Desenvolvedor Backend e Frontend Pleno** com foco em **Node.js**, **NestJS**, **React**, **TypeScript** e **arquitetura de microsserviços**.  
+🎯 **Desenvolvedor Backend e Frontend Sênior** com foco em **Node.js**, **NestJS**, **React**, **TypeScript** e **arquitetura de microsserviços**.  
 Tenho experiência no desenvolvimento de **aplicações escaláveis e performáticas**, integrações complexas com **APIs** e **sistemas de pagamento**, além de práticas sólidas de **Clean Code**, **SOLID**, e **CI/CD**.
 
 ---
